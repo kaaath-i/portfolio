@@ -8,7 +8,7 @@ Brief analysis of European airports with their routes, flight prices and more - 
 ## 2) Emotion Classification BERT models
 https://github.com/kaaath-i/emotion-classification-bert-models
 
-🚧 IN PROGRESS - University project comparing DistilBERT and RoBERTa for emotion classification.
+University project comparing DistilBERT and RoBERTa for emotion classification.
 
 -----------------------------------------------------------------------------------------------------------
 Further projects are in progress.
