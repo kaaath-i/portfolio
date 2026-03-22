@@ -1,19 +1,19 @@
 # Portfolio
 
-## 1) European Airport Analysis
-https://github.com/kaaath-i/european-airports-analysis
+## 1) KochWiki Information Retrieval System
+[Github](https://github.com/kaaath-i/ir-project) · [Try the prototype](https://kochwiki-suche.streamlit.app/)
 
-Brief analysis of European airports with their routes, flight prices and more - including visualization.
+🚧 In progress - (German) Information Retrieval system built on 14k+ recipes from kochwiki.org.
 
 ## 2) Emotion Classification BERT models
-https://github.com/kaaath-i/emotion-classification-bert-models
+[GitHub](https://github.com/kaaath-i/emotion-classification-bert-models)
 
 University project comparing DistilBERT and RoBERTa for emotion classification.
 
-## 3) KochWiki Information Retrieval System
-https://github.com/kaaath-i/ir-project
+## 3) European Airport Analysis
+[GitHub](https://github.com/kaaath-i/european-airports-analysis)
 
-🚧 In progress - (German) Information Retrieval system built on 14k+ recipes from kochwiki.org.
+Brief analysis of European airports with their routes, flight prices and more - including visualization.
 
 -----------------------------------------------------------------------------------------------------------
 Further projects are in progress.
