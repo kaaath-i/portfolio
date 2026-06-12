@@ -1,7 +1,7 @@
 # Portfolio
 
-## 1) KochWiki Information Retrieval System
-[Github](https://github.com/kaaath-i/ir-project) · [Try the prototype](https://huggingface.co/spaces/kaaath-i/kochwiki-suche)
+## 1) RAGatouille - KochWiki Information Retrieval System
+[Github](https://github.com/kaaath-i/ir-project) · [Ask RAGatouille](https://huggingface.co/spaces/kaaath-i/ragatouille)
 
 (German) Information Retrieval system built on 14k+ recipes from kochwiki.org.
 
