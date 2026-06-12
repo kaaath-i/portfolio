@@ -3,7 +3,7 @@
 ## 1) KochWiki Information Retrieval System
 [Github](https://github.com/kaaath-i/ir-project) · [Try the prototype](https://huggingface.co/spaces/kaaath-i/kochwiki-suche)
 
-🚧 In progress - (German) Information Retrieval system built on 14k+ recipes from kochwiki.org.
+(German) Information Retrieval system built on 14k+ recipes from kochwiki.org.
 
 ## 2) Emotion Classification BERT models
 [GitHub](https://github.com/kaaath-i/emotion-classification-bert-models)
